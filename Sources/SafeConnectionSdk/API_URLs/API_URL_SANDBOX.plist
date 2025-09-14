@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OFFLINE_DATABASE_URL</key>
+	<string>https://apiscdn.sandbox.scamadvisor-sdk.com</string>
+	<key>NUM_URL</key>
+	<string>https://apiscdn.sandbox.scamadvisor-sdk.com</string>
+	<key>AUTH_URL</key>
+	<string>https://api.sandbox.scamadvisor-sdk.com</string>
+</dict>
+</plist>
