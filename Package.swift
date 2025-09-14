@@ -28,7 +28,7 @@ let package = Package(
             dependencies: [
                 .product(name: "Moya", package: "Moya"),
                 .product(name: "PhoneNumberKit", package: "PhoneNumberKit"),
-                .product(name: "Realm", package: "realm-swift"),
+                .product(name: "RealmSwift", package: "realm-swift"),
                 .product(name: "ZipArchive", package: "ZipArchive"),
             ]
         ),
